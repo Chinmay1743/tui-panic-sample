@@ -1,5 +1,5 @@
 [package]
-name = "tui-panic"
+name = "tui-panic-sample"
 version = "0.1.0"
 edition = "2021"
 
